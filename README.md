@@ -15,3 +15,15 @@ This repo will host:
  - said website (with a table of contents and suggested readings), 
  - the code of the best final projects created by the students, and
  - the project description and key findings (as part of the website).
+
+## Micrograd lectures
+
+Lecture 16 and 17, and corresponding notebooks, introduced a simplified variant of [karpathy/micrograd](https://github.com/karpathy/micrograd), graphically improved for educational purpose.
+On Mac, install the graph visualisation dependency with:
+
+```bash
+brew install graphviz
+pip install graphviz
+```
+
+As self-study exercise, you may want to read and understand all the source code found at [karpathy/micrograd/micrograd](https://github.com/karpathy/micrograd/tree/master/micrograd).
