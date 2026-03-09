@@ -33,7 +33,7 @@ The aim of this course is to get the students fluent in reasoning, using:
 
 Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
-## Lesson 01: Course intro + McCulloch & Pitts binary neuron 🧠 [🎥](https://youtu.be/rg4QyMFONNQ)
+## Lesson 01: Course intro + McCulloch & Pitts binary neuron [🎥](https://youtu.be/rg4QyMFONNQ)
 
 *Using maths & coding as languages of research 📐💻*
 
@@ -47,7 +47,7 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
 [![Lesson 01 blackboard](https://lh3.googleusercontent.com/d/1TdkMaLSrP0lR8Tq_lmL8jSzEtOxaFH0p)](https://drive.google.com/file/d/1TdkMaLSrP0lR8Tq_lmL8jSzEtOxaFH0p/)
 
-## Lesson 02: Programming a neural network 💻🧠 [🎥](https://youtu.be/3_e0HVV3nMM)
+## Lesson 02: Programming a neural network [🎥](https://youtu.be/3_e0HVV3nMM)
 
 *Behaviour by design using weights computed with maths 📐🧠*
 
@@ -56,7 +56,7 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
 [![Lesson 02 blackboard](https://lh3.googleusercontent.com/d/1QekWhROt7Yz-JayTk1nxXEaZtJNJwdjU)](https://drive.google.com/file/d/1QekWhROt7Yz-JayTk1nxXEaZtJNJwdjU/)
 
-## Lesson 03: Wiener's cybernetics, Hebbian plasticity, and Rosenblatt's perceptron 🧠 [🎥](https://youtu.be/8WDOAXaxwlU)
+## Lesson 03: Wiener's cybernetics, Hebbian plasticity, and Rosenblatt's perceptron [🎥](https://youtu.be/8WDOAXaxwlU)
 
 *When physical machines start learning 🔁*
 
@@ -74,7 +74,7 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 [![Lesson 03 blackboard 1](https://lh3.googleusercontent.com/d/1J4U0IwMkuRLQ-SHDepmnRlGBFk_RcK6b)](https://drive.google.com/file/d/1J4U0IwMkuRLQ-SHDepmnRlGBFk_RcK6b/)
 [![Lesson 03 blackboard 2](https://lh3.googleusercontent.com/d/1uov982b5bXUOp2yf_H6GWb1Kk-ctUa0Q)](https://drive.google.com/file/d/1uov982b5bXUOp2yf_H6GWb1Kk-ctUa0Q/)
 
-## Lesson 04: Bias, perceptron properties, and multi-class classification 🧠 [🎥](https://youtu.be/DtP2HYp9cNM)
+## Lesson 04: Bias, perceptron properties, and multi-class classification [🎥](https://youtu.be/DtP2HYp9cNM)
 
 *Bias shifts the boundary; more neurons slice the world 📐🧠*
 
