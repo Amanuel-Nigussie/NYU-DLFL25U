@@ -45,7 +45,7 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 - Choi (2011) [*Sound of neurons*](https://youtu.be/8bxpz-YEuao)
 - Mahdid (2025) [*Exploring "Logical Calculus of Nervous Activity" by McCulloch & Pitts*](https://www.youtube.com/live/BtTs0iwdB8A)
 
-[![Lesson 01 blackboard](https://lh3.googleusercontent.com/d/1mVJ9J5d5ci3fOqtvV2PxLwitiY1RcnxG)](https://drive.google.com/file/d/1mVJ9J5d5ci3fOqtvV2PxLwitiY1RcnxG/)
+[![Lesson 01 blackboard](https://lh3.googleusercontent.com/d/1TdkMaLSrP0lR8Tq_lmL8jSzEtOxaFH0p)](https://drive.google.com/file/d/1TdkMaLSrP0lR8Tq_lmL8jSzEtOxaFH0p/)
 
 ## Lesson 02: Programming a neural network 💻🧠 [🎥](https://youtu.be/3_e0HVV3nMM)
 
@@ -54,7 +54,7 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 **Suggested readings**
 - Summerfield (2025) [*These strange new minds*](https://www.penguinrandomhouse.com/books/750406/these-strange-new-minds-by-christopher-summerfield/)
 
-[![Lesson 02 blackboard](https://lh3.googleusercontent.com/d/1Sawrj3cIJyVWsBj4cqJYptnx2D7YEMgN)](https://drive.google.com/file/d/1Sawrj3cIJyVWsBj4cqJYptnx2D7YEMgN/)
+[![Lesson 02 blackboard](https://lh3.googleusercontent.com/d/1QekWhROt7Yz-JayTk1nxXEaZtJNJwdjU)](https://drive.google.com/file/d/1QekWhROt7Yz-JayTk1nxXEaZtJNJwdjU/)
 
 ## Lesson 03: Wiener's cybernetics, Hebbian plasticity, and Rosenblatt's perceptron 🧠 [🎥](https://youtu.be/8WDOAXaxwlU)
 
@@ -71,14 +71,12 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 - Monty Python (1970) [*Spam* (Monty Python sketch)](https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch))
 - van Rossum (1991) [*Python*](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-[![Lesson 03 blackboard 1](https://lh3.googleusercontent.com/d/1IRxgGDvqYSTLFsS9j4w8Ym2p8tsQXZ2Z)](https://drive.google.com/file/d/1IRxgGDvqYSTLFsS9j4w8Ym2p8tsQXZ2Z/)
-
-[![Lesson 03 blackboard 2](https://lh3.googleusercontent.com/d/1xiby7MYZR3F-ayqfdh0y48eCmUEqtAQH)](https://drive.google.com/file/d/1xiby7MYZR3F-ayqfdh0y48eCmUEqtAQH/)
+[![Lesson 03 blackboard 1](https://lh3.googleusercontent.com/d/1J4U0IwMkuRLQ-SHDepmnRlGBFk_RcK6b)](https://drive.google.com/file/d/1J4U0IwMkuRLQ-SHDepmnRlGBFk_RcK6b/)
+[![Lesson 03 blackboard 2](https://lh3.googleusercontent.com/d/1uov982b5bXUOp2yf_H6GWb1Kk-ctUa0Q)](https://drive.google.com/file/d/1uov982b5bXUOp2yf_H6GWb1Kk-ctUa0Q/)
 
 ## Lesson 04: Bias, perceptron properties, and multi-class classification 🧠 [🎥](https://youtu.be/DtP2HYp9cNM)
 
 *Bias shifts the boundary; more neurons slice the world 📐🧠*
 
-[![Lesson 04 blackboard 1](https://lh3.googleusercontent.com/d/1kHXrFCkGps96QNEIekZY6FnXKtviYFfY)](https://drive.google.com/file/d/1kHXrFCkGps96QNEIekZY6FnXKtviYFfY/)
-
-[![Lesson 04 blackboard 2](https://lh3.googleusercontent.com/d/1vEenb5r5HI5AqRJyadvhXUBoPxj23u6M)](https://drive.google.com/file/d/1vEenb5r5HI5AqRJyadvhXUBoPxj23u6M/)
+[![Lesson 04 blackboard 1](https://lh3.googleusercontent.com/d/1Q541DC-nQCgHfEd5goRSmG_rOItG8bEH)](https://drive.google.com/file/d/1Q541DC-nQCgHfEd5goRSmG_rOItG8bEH/)
+[![Lesson 04 blackboard 2](https://lh3.googleusercontent.com/d/1lMB-GEic5D4bATAWznofC0482NxoGZOo)](https://drive.google.com/file/d/1lMB-GEic5D4bATAWznofC0482NxoGZOo/)
