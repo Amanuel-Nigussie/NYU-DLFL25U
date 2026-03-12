@@ -40,6 +40,7 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 **Suggested readings**
 - Whitehead & Russell (1910) [*Principia mathematica*](https://archive.org/details/alfred-north-whitehead-bertrand-russel-principia-mathematica.-1)
 - McCulloch & Pitts (1943) [*A logical calculus of the ideas immanent in nervous activity*](https://drive.google.com/file/d/13X3wST4-qtkCB1uJW4oAlGUIIChUsXM5/)
+- [*Iverson bracket*](https://en.wikipedia.org/wiki/Iverson_bracket)
 
 **Suggested videos**
 - Choi (2011) [*Sound of neurons*](https://youtu.be/8bxpz-YEuao)
@@ -80,3 +81,15 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
 [![Lesson 04 blackboard 1](https://lh3.googleusercontent.com/d/1Q541DC-nQCgHfEd5goRSmG_rOItG8bEH)](https://drive.google.com/file/d/1Q541DC-nQCgHfEd5goRSmG_rOItG8bEH/)
 [![Lesson 04 blackboard 2](https://lh3.googleusercontent.com/d/1lMB-GEic5D4bATAWznofC0482NxoGZOo)](https://drive.google.com/file/d/1lMB-GEic5D4bATAWznofC0482NxoGZOo/)
+
+## Lesson 05: A softer perceptron, part I: probabilities [🎥](https://youtu.be/DYtEA4FTCgE)
+
+*Replacing certainty 🌗 with a degree of belonging 📊*
+
+**Suggested readings**
+- [*Iverson bracket*](https://en.wikipedia.org/wiki/Iverson_bracket)
+- [*Temperature*](https://en.wikipedia.org/wiki/Temperature)
+- [*Thermodynamic β*](https://en.wikipedia.org/wiki/Thermodynamic_beta)
+
+[![Lesson 05 blackboard 1](https://lh3.googleusercontent.com/d/1fJzySpr1PnR8vRJOhtyUJGaaBEGDpXwN)](https://drive.google.com/file/d/1fJzySpr1PnR8vRJOhtyUJGaaBEGDpXwN/)
+[![Lesson 05 blackboard 2](https://lh3.googleusercontent.com/d/1bEQYE4GCo2DznHWqzdLNzBovkYW7No6r)](https://drive.google.com/file/d/1bEQYE4GCo2DznHWqzdLNzBovkYW7No6r/)
